@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 29 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 34 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/404.html</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.cheapandcheerfulwebsites.co.uk/aboutme/</loc>
+	
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +37,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/blog/archive/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +54,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/atom.xml</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -56,7 +71,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/changelog/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,9 +84,24 @@
 
 	
 	<url>
-	<loc>https://www.cheapandcheerfulwebsites.co.uk/contact/</loc>
+	<loc>https://www.cheapandcheerfulwebsites.co.uk/contactme/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.cheapandcheerfulwebsites.co.uk/customemailaddresses/</loc>
+	
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +116,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/design/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +131,22 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/documentation/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.cheapandcheerfulwebsites.co.uk/domainname/</loc>
+	
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +161,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/feed.xml</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +176,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/getting-started/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +191,22 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/headers/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.cheapandcheerfulwebsites.co.uk/howdoesitwork/</loc>
+	
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +221,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/humans.txt</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +236,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/blog/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +251,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +266,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/info/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +281,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/redirect-page/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -236,7 +296,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/roadmap/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -251,7 +311,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/robots.txt</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -270,7 +330,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/search/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -285,7 +345,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/sitemap.xml</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -300,9 +360,24 @@
 
 	
 	<url>
+	<loc>https://www.cheapandcheerfulwebsites.co.uk/termsconditions/</loc>
+	
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/blog/page2/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -317,7 +392,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/blog/page3/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -332,7 +407,7 @@
 	<url>
 	<loc>https://www.cheapandcheerfulwebsites.co.uk/blog/page4/</loc>
 	
-		<lastmod>2024-09-04T08:17:46+01:00</lastmod>
+		<lastmod>2024-09-07T12:55:09+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
